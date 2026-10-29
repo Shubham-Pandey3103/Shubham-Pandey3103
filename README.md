@@ -1,23 +1,27 @@
 
+<!-- ========================================= -->
+<!-- SHUBHAM PANDEY | GITHUB PROFILE README   -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# SHUBHAM PANDEY
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:2563EB&height=210&section=header&text=Shubham%20Pandey&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=B.Tech%20CSE%20%7C%20AI%20%26%20ML%20%7C%20Software%20Development&descSize=15&descAlignY=58&animation=fadeIn" />
 
-### B.Tech CSE (AI & ML) | Software Developer in Progress
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Shubham+Pandey+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+Student+%F0%9F%8E%93;Building+Projects+That+Solve+Real+Problems+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+SQL+%7C+Web+Development;Always+Learning.+Always+Building." alt="Typing introduction" />
 
-Building practical projects • Solving problems • Learning every day
+<br/>
 
-<p>
-  <a href="https://github.com/Shubham-Pandey3103">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-pandey-36679237a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shubhampandey77070@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<a href="https://github.com/Shubham-Pandey3103">
+<img src="https://img.shields.io/badge/GitHub-Shubham--Pandey3103-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shubham-pandey-36679237a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shubhampandey77070@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Shubham-Pandey3103&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -25,124 +29,245 @@ Building practical projects • Solving problems • Learning every day
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Shubham Pandey**, a Computer Science student
-specializing in Artificial Intelligence and Machine Learning
-at Lovely Professional University.
+```python
+class ShubhamPandey:
+    def __init__(self):
+        self.education = "B.Tech CSE (AI & ML)"
+        self.university = "Lovely Professional University"
+        self.graduation = 2029
 
-I'm passionate about software development, problem-solving,
-and building practical applications that solve real problems.
+        self.languages = ["C++", "Python", "C", "JavaScript"]
+        self.databases = ["SQL", "DBMS"]
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Problem Solving",
+            "Building Real-World Projects"
+        ]
+
+        self.current_focus = [
+            "Data Structures & Algorithms",
+            "Object-Oriented Programming",
+            "Project Development"
+        ]
+
+    def my_motto(self):
+        return "Learn. Build. Improve. Repeat."
+
+
+me = ShubhamPandey()
+print(me.my_motto())
+```
+
+I'm a Computer Science student specializing in Artificial
+Intelligence and Machine Learning at Lovely Professional
+University.
+
+I enjoy turning ideas into practical applications, exploring
+new technologies, and improving my programming skills through
+hands-on projects.
 
 - 🎓 B.Tech CSE (AI & ML), 2025–2029
-- 💻 Programming: C++, Python, C, JavaScript
-- 🗄️ Databases: SQL, DBMS
-- 🛠️ Interested in software engineering and AI/ML
-- 🧠 Currently strengthening DSA, OOP and core CS concepts
-- 🚀 Building projects focused on productivity, automation
-  and intelligent systems
-- 🤝 Open to learning, collaboration and internship opportunities
+- 💻 Learning and building with C++, Python and web technologies
+- 🧠 Strengthening DSA, OOP and computer science fundamentals
+- 🚀 Interested in intelligent applications and useful software
+- 🤝 Open to project collaborations and internship opportunities
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
+
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,html,css,mysql,git,github,vscode" alt="Technical skills"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js" alt="C++, Python, C and JavaScript"/>
 </p>
 
-**Core Concepts:** Object-Oriented Programming, Data Structures
-and Algorithms, Database Management Systems.
+### Web Development & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,mysql" alt="HTML, CSS and MySQL"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+</p>
+
+**Core Concepts:** Object-Oriented Programming, SQL, DBMS,
+problem-solving and Data Structures & Algorithms.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. CGPA OS Pro — Student Performance Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A student-focused web application for academic performance
-tracking and CGPA calculations.
+<h3 align="center">📊 CGPA OS Pro</h3>
 
-- CGPA and percentage calculation
+<p align="center">
+Student Performance Analytics
+</p>
+
+A student-focused web application designed to simplify
+academic calculations and performance tracking.
+
+- CGPA and percentage calculator
 - Subject-wise marks and grading
-- Performance analytics and academic history
+- Academic performance analytics
 - Target CGPA planning
 
-**Technologies:** Add the actual technologies used.
+<p align="center">
+<img src="https://img.shields.io/badge/Project-Student%20Analytics-2563EB?style=flat-square" alt="Student analytics"/>
+</p>
 
-🔗 [Explore Project](https://github.com/Shubham-Pandey3103/cgpa-os-pro)
+<p align="center">
+<a href="https://github.com/Shubham-Pandey3103/cgpa-os-pro">View Repository →</a>
+</p>
 
-### 02. Railway Track Intrusion Detection & Alert System
+</td>
+<td width="50%" valign="top">
 
-An embedded safety system designed to detect movement
+<h3 align="center">🚆 Railway Safety System</h3>
+
+<p align="center">
+Track Intrusion Detection & Alert
+</p>
+
+An embedded-system project designed to detect movement
 and potential obstacles near railway tracks.
 
-- Arduino UNO-based prototype
-- PIR motion and ultrasonic sensors
-- Alert mechanisms using buzzer and LED
-- Real-time detection concept
+- Arduino UNO prototype
+- PIR motion detection
+- Ultrasonic distance sensing
+- Buzzer and LED alerts
 
-**Technologies:** Arduino UNO, Embedded C/C++, PIR sensor,
-ultrasonic sensor.
+<p align="center">
+<img src="https://img.shields.io/badge/Project-Embedded%20Systems-0F766E?style=flat-square" alt="Embedded systems"/>
+</p>
 
-🔗 [Explore Project](https://github.com/Shubham-Pandey3103/railway-track-intrusion-detection)
+<p align="center">
+<a href="https://github.com/Shubham-Pandey3103/railway-track-intrusion-detection">View Repository →</a>
+</p>
 
-### 03. Face Recognition-Based Attendance System
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A face-recognition-based attendance project designed
-to streamline attendance recording and management.
+<h3 align="center">👤 Face Recognition</h3>
 
-- Face detection and recognition workflow
+<p align="center">
+Automated Attendance System
+</p>
+
+A face-recognition-based attendance project focused on
+streamlining attendance recording and management.
+
+- Face detection and recognition
 - Attendance record management
-- User interface and database integration
-- Automated attendance reporting concept
+- Database integration
+- Attendance reporting workflow
 
-**Technologies:** Add the actual frameworks and libraries used.
+<p align="center">
+<img src="https://img.shields.io/badge/Project-Face%20Recognition-7C3AED?style=flat-square" alt="Face recognition"/>
+</p>
 
-🔗 [Explore Project](https://github.com/Shubham-Pandey3103/face-recognition-attendance)
+<p align="center">
+<a href="https://github.com/Shubham-Pandey3103/face-recognition-attendance">View Repository →</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💼 ResumeAI Match Engine</h3>
+
+<p align="center">
+Resume & Job Description Analyzer
+</p>
+
+A resume-analysis project focused on comparing candidate
+profiles with job descriptions.
+
+- Resume and job description input
+- Skill matching and candidate scoring
+- Resume analysis workflow
+- Frontend and backend integration
+
+<p align="center">
+<img src="https://img.shields.io/badge/Project-Resume%20Analytics-DB2777?style=flat-square" alt="Resume analytics"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Shubham-Pandey3103">Explore My Repositories →</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
-
-- Programming Fundamentals Using Python — Infosys
-- DSA (Sup Batch 4.0) — CodeHelp
-- Python — Sylor
-- AICTE National Internship Enterprise Portal — Registered Candidate
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubham-Pandey3103&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubham-Pandey3103&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Pandey3103&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Pandey3103&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Shubham-Pandey3103&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 🌱 Current Focus
+## 🏅 Certifications & Learning
 
-- Mastering Data Structures and Algorithms
-- Improving C++ and Python programming
-- Building useful, well-documented software projects
-- Exploring AI/ML and practical applications
-- Learning Git, GitHub and collaborative development
+- **Programming Fundamentals Using Python** — Infosys
+- **DSA (Sup Batch 4.0)** — CodeHelp
+- **Python** — Sylor
+- **AICTE National Internship Enterprise Portal** — Registered Candidate
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Strengthen DSA and problem-solving skills
+- [ ] Improve C++ and Python proficiency
+- [ ] Build and document production-quality projects
+- [ ] Explore practical AI/ML applications
+- [ ] Contribute to collaborative software projects
+- [ ] Prepare for software development internships
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm eager to learn from experienced developers, collaborate
-on meaningful projects and contribute to software development.
-
-- GitHub: https://github.com/Shubham-Pandey3103
-- LinkedIn: https://www.linkedin.com/in/shubham-pandey-36679237a/
-- Email: shubhampandey77070@gmail.com
-
 <div align="center">
 
-**"Learn continuously. Build consistently. Improve relentlessly."**
+I'm always interested in learning, building, and collaborating
+on meaningful technology projects.
+
+<a href="https://github.com/Shubham-Pandey3103">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shubham-pandey-36679237a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:shubhampandey77070@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<br/><br/>
+
+### 💙 Learn Consistently. Build Meaningfully. Grow Every Day.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:2563EB&height=110&section=footer" />
 
 </div>
